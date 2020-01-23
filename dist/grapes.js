@@ -38418,6 +38418,13 @@ var prv = 'preview';
       attributes: {
         title: 'View code'
       }
+    }, {
+      id: expt,
+      className: 'fa fa-download',
+      command: 'exportpng',
+      attributes: {
+        title: 'Export PNG'
+      }
     }]
   }, {
     id: 'views',
